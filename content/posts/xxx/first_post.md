@@ -1,6 +1,6 @@
 ---
 title: "お試しです"
-draft: true #draft。-Dをつけないと表示されない。
+draft: false #draft。-Dをつけないと表示されない。
 date: 2022-08-12T22:53:03+09:00
 lastmod: 2020-03-04T15:58:26+08:00
 subtitle: "試してみました"
